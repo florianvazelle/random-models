@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Gun.obj-a1f2367c2781a54f6e9345c08a8e044f.mesh"
+
+[deps]
+
+files=[ "res://.import/Gun.obj-a1f2367c2781a54f6e9345c08a8e044f.mesh" ]
+
+source_file="res://assets/models/police/PoliceOfficerSet/Gun_and_Car_OBJ/Gun.obj"
+dest_files=[ "res://.import/Gun.obj-a1f2367c2781a54f6e9345c08a8e044f.mesh", "res://.import/Gun.obj-a1f2367c2781a54f6e9345c08a8e044f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

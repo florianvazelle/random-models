@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Car_Parking_Brake.ogg-329e00374f90b0369777256dfc4b4484.oggstr"
+
+[deps]
+
+source_file="res://assets/models/car/Sound effects/Car_Parking_Brake.ogg"
+dest_files=[ "res://.import/Car_Parking_Brake.ogg-329e00374f90b0369777256dfc4b4484.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

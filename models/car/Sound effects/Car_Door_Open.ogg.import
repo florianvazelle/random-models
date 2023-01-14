@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Car_Door_Open.ogg-a1cf18cf68646460b7422631715bf281.oggstr"
+
+[deps]
+
+source_file="res://assets/models/car/Sound effects/Car_Door_Open.ogg"
+dest_files=[ "res://.import/Car_Door_Open.ogg-a1cf18cf68646460b7422631715bf281.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Car_Acceleration_2.ogg-6012e7da947b75081d286ad3bb6efa33.oggstr"
+
+[deps]
+
+source_file="res://assets/models/car/Sound effects/Car_Acceleration_2.ogg"
+dest_files=[ "res://.import/Car_Acceleration_2.ogg-6012e7da947b75081d286ad3bb6efa33.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
